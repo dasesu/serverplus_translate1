@@ -5,4 +5,5 @@ Page 3: Line 7
 	ROM): the parenthesis closes but it was never opened
 Page 3: Line 8
 	EEPROM): the parenthesis closes but it was never opened
-
+Page 7: Line 1
+	interrupt driven: should be interrupt-driven
